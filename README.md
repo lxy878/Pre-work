@@ -6,7 +6,7 @@
 
 **Purpose:**
 
-The application was designed for applying the CodePath iOS, that was a training program for current Queens College students.
+The application was designed for applying the CodePath iOS, which was a training program for current Queens College students.
 
 Time spent: **15** hours spent in total
 
@@ -16,7 +16,7 @@ The functionalities:
 
 - User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 - Settings page to change the default tip percentage.
-- Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.   
+- Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 - Counting tip for more than one person
 - Always Remembering the bill amount across app restarts
 - Rearrange context and background
